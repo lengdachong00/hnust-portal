@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Tips",
+    "category": "通用指南",
+    "slug": "tips",
+    "attachment": "Tips.docx",
+    "is_form": false
+  },
+  {
+    "title": "湖南科技大学三亚研究院国内公务外出审批单",
+    "category": "常用审批单下载",
+    "slug": "湖南科技大学三亚研究院国内公务外出审批单",
+    "attachment": "湖南科技大学三亚研究院国内公务外出审批单.docx",
+    "is_form": true
+  },
+  {
+    "title": "湖南科技大学合同签署审批表",
+    "category": "常用审批单下载",
+    "slug": "湖南科技大学合同签署审批表",
+    "attachment": "湖南科技大学合同签署审批表.docx",
+    "is_form": true
+  },
+  {
+    "title": "湖南科技大学用印审批单",
+    "category": "常用审批单下载",
+    "slug": "湖南科技大学用印审批单",
+    "attachment": "湖南科技大学用印审批单.docx",
+    "is_form": true
+  },
+  {
+    "title": "三亚研究院差旅报销流程",
+    "category": "办事流程",
+    "slug": "三亚研究院差旅报销流程",
+    "attachment": "三亚研究院差旅报销流程.docx",
+    "is_form": false
+  },
+  {
+    "title": "交样卷流程",
+    "category": "办事流程",
+    "slug": "交样卷流程",
+    "attachment": "交样卷流程.docx",
+    "is_form": false
+  },
+  {
+    "title": "信息学院差旅报销流程",
+    "category": "办事流程",
+    "slug": "信息学院差旅报销流程",
+    "attachment": "信息学院差旅报销流程.docx",
+    "is_form": false
+  },
+  {
+    "title": "信息学院采购报销流程",
+    "category": "办事流程",
+    "slug": "信息学院采购报销流程",
+    "attachment": "信息学院采购报销流程.docx",
+    "is_form": false
+  },
+  {
+    "title": "开发票流程",
+    "category": "办事流程",
+    "slug": "开发票流程",
+    "attachment": "开发票流程.docx",
+    "is_form": false
+  },
+  {
+    "title": "技术服务合同流程",
+    "category": "办事流程",
+    "slug": "技术服务合同流程",
+    "attachment": "技术服务合同流程.docx",
+    "is_form": false
+  },
+  {
+    "title": "湖科大用章审批流程",
+    "category": "办事流程",
+    "slug": "湖科大用章审批流程",
+    "attachment": "湖科大用章审批流程.docx",
+    "is_form": false
+  }
+]
