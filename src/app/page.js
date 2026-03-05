@@ -27,7 +27,7 @@ export default function Home() {
   });
 
   return (
-    <div className="container" style={{ paddingBottom: "100px" }}>
+    <div className="container" style={{ paddingBottom: "3rem" }}>
       <header style={{ marginTop: "2rem", marginBottom: "1.5rem" }}>
         <h1 style={{ fontSize: "2.5rem", marginBottom: "0.5rem" }}>
           <span style={{ color: "var(--primary)" }}>跑材料</span> 手册
@@ -104,20 +104,6 @@ export default function Home() {
         </div>
       )}
 
-      <nav className="tab-bar">
-        <Link href="/" style={{ textAlign: "center", color: "var(--primary)" }}>
-          <LayoutDashboard size={24} />
-          <div style={{ fontSize: "0.7rem", marginTop: "2px" }}>首页</div>
-        </Link>
-        <div style={{ textAlign: "center", color: "var(--text-muted)" }}>
-          <Compass size={24} />
-          <div style={{ fontSize: "0.7rem", marginTop: "2px" }}>分类</div>
-        </div>
-        <div style={{ textAlign: "center", color: "var(--text-muted)" }}>
-          <FileText size={24} />
-          <div style={{ fontSize: "0.7rem", marginTop: "2px" }}>广场</div>
-        </div>
-      </nav>
     </div>
   );
 }

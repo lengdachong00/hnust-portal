@@ -18,7 +18,7 @@ export default async function ArticlePage({ params }) {
     const images = article.local_images || [];
 
     return (
-        <div className="container" style={{ paddingBottom: "100px" }}>
+        <div className="container" style={{ paddingBottom: "4rem" }}>
             <header style={{ marginTop: "1rem", marginBottom: "2rem" }}>
                 <Link href="/" style={{ color: "var(--primary)", display: "flex", alignItems: "center", marginBottom: "1.5rem", textDecoration: "none" }}>
                     <ChevronLeft size={20} style={{ marginRight: "0.25rem" }} /> 返回首页
@@ -117,7 +117,7 @@ export default async function ArticlePage({ params }) {
                 </>
             )}
 
-            <div style={{ position: "fixed", bottom: "100px", right: "1.5rem" }}>
+            <div style={{ position: "fixed", bottom: "2rem", right: "1.5rem" }}>
                 <button className="glass-card" style={{
                     width: "50px", height: "50px", borderRadius: "50%",
                     display: "flex", alignItems: "center", justifyContent: "center",
