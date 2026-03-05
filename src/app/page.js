@@ -104,6 +104,17 @@ export default function Home() {
         </div>
       )}
 
+      <footer style={{
+        marginTop: "4rem",
+        paddingBottom: "2rem",
+        textAlign: "center",
+        color: "var(--text-muted)",
+        fontSize: "0.85rem",
+        opacity: 0.8
+      }}>
+        <p>© 2026 Made with ❤️ by Tang</p>
+        <p style={{ marginTop: "0.25rem", fontSize: "0.75rem" }}>为科大同学提供便利</p>
+      </footer>
     </div>
   );
 }
