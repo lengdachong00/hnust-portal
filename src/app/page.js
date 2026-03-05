@@ -33,7 +33,7 @@ export default function Home() {
           <span style={{ color: "var(--primary)" }}>跑材料</span> 手册
         </h1>
         <p style={{ color: "var(--text-muted)", fontSize: "1rem" }}>
-          湖南科技大学信息学院专属办事指南，助你少跑冤枉路。
+          陈锦老师课题组维护，湖南科技大学信息学院专属办事指南。
         </p>
       </header>
 
