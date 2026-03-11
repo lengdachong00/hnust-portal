@@ -33,8 +33,8 @@ export default async function ArticlePage({ params }) {
 
                 {isForm && article.attachment && (
                     <a
-                        href={`/downloads/${article.attachment}`}
-                        download
+                        href={`/downloads/${encodeURIComponent(article.attachment)}`}
+                        download={article.attachment}
                         className="glass-card"
                         style={{
                             display: "inline-flex",
